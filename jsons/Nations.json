@@ -1,0 +1,28 @@
+[
+  {
+		"name": "Mondstadt",
+		"leaderName": "Jean Gunnhildr",
+		"adjective": ["Mondstadtian"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Cultural",
+
+		"startIntroPart1": "Greetings to you, Venerable Jean, Acting Grand Master of the Knights of Favonius! Your sense of responsibility is flawless. The duties and commissions associated with your role are always taken seriously and your loyalty to the Knights of Favonius is unmatched. You have protected Mondstadt on several occasions against the forces of evil with your courage and determination to guarantee security and peace for your citizens. Your dedication is greatly appreciated by your community and you are an example to many Knights of the Order.",
+		"startIntroPart2": "O Great Jean, your people once again need your protection and your courage. Will you be able to maintain freedom and guide your people to a bright future? Can you build a civilization that will stand the test of time?",
+		"declaringWar": "For Mondstadt, for freedom — that is what I fight for. Wind, please show us the path!",
+		"attacked": "As the wind continues to blow, so too shall I continue this struggle. Barbatos, guide us.",
+		"defeated": "Wind, please forgive my selfishness. I have failed...",
+		"introduction": "Welcome to you stranger. I am Jean, the Acting Grand Master of the Knight of Favonius. Mondstadt welcomes you.",
+		"neutralHello": "Greetings.",
+		"hateHello": "I have work to do.",
+		"tradeRequest": "For Mondstadt, as always.",
+
+		"outerColor": [91, 220, 177],
+		"innerColor": [255, 199, 9],
+    
+		"favoredReligion": "Christianity",
+		"uniqueName": "Let the Wind Lead",
+		"uniques": ["Receive free [Great Artist] when you discover [Drama and Poetry]", "[+1 Culture] from [Open terrain] tiles [in all cities] <within [1] tiles of a [City center]> <when not at war>"],
+		"cities": ["Mondstadt"]
+  },
+]
+    
